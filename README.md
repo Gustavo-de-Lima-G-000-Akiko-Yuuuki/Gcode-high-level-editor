@@ -1,8 +1,8 @@
 # Gcode-high-level-editor
 Gcode high level editor. Conjunto de códigos feito em meu tempo livre para maximizar minha produtividade e experiencia em Gcode e suas variantes (Impressão 3d, Fresa, Torno, Plotter, Corte a laser, etc.)
 
-### <font color="blue">Por que criar essas ferramentas? Bem, é divertido!</font>
-### <font color="red">Se precisar de mais alguma coisa, estou à disposição!</font>
+### <font color="blue">🧐Por que criar essas ferramentas? Bem, é divertido!</font>
+### <font color="red">😎Se precisar de mais alguma coisa, estou à disposição!</font>
 
 
 
